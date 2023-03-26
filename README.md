@@ -10,7 +10,7 @@
 </div>
 
 
-![snake gif](https://github.com/GuilhermeCerqueiraa/GuilhermeCerqueiraa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuilhermeCerqueiraa/GuilhermeCerqueiraa/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
