@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeCerqueiraa&bg_color=0d1117&color=00FFFF&line=00FFFF&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCerqueiraa&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCerqueiraa&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCerqueiraa&show_icons=true&count_private=true&hide_border=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCerqueiraa&layout=compact&hide_border=00FFFF&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
 <div align="center">
